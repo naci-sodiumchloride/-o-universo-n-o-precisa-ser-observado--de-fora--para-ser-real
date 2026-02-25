@@ -1,0 +1,1 @@
+# -o-universo-n-o-precisa-ser-observado--de-fora--para-ser-real
