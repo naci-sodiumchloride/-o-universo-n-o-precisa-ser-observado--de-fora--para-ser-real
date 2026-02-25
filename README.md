@@ -1,2 +1,2 @@
-Este projeto é open-source para fins de estudo e leitura.
-Modificações e redistribuições não são permitidas.
+This project is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
